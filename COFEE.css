@@ -1,0 +1,345 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Island+Moments&family=Licorice&family=Pacifico&family=Pushster&family=Roboto+Slab:wght@100&family=Shizuru&family=Waterfall&display=swap');
+body {
+  background-size: cover;
+}
+.a1 {
+  width: 95%;
+  height: 100px;
+  border: rgba(51, 26, 21, 1) 3px solid;
+  margin-left: 25px;
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  background-image: url(./images/coffee-beans-in-white-background-carla-m-felderer.jpg);
+  background-size: 265px 102px;
+  background-repeat: no-repeat;
+  position: sticky;
+  top: 0px;
+  background-color: white;
+  background-position: right;
+  border-radius: 10px;
+
+}
+.a2 {
+  width: 95%;
+  height: 506px;
+  border: rgba(51, 26, 21, 1) 3px solid;
+  margin-left: 25px;
+  font-family: "Licorice", cursive;
+  border-radius: 50px;
+}
+
+.a1 a {
+  text-decoration: none;
+  padding: 5px;
+  margin-left: 50px;
+  margin-top: 100px;
+  transition-duration: 0.4s;
+  color: rgba(51, 26, 21, 1);
+}
+
+.a2 img {
+  width: 45%;
+  height: 500px;
+  margin-left: 55%;
+  margin-top: 0px;
+  border-radius: 50px;
+}
+
+.a2 h1 {
+  color: rgba(51, 26, 21, 1);
+  margin-top: -500px;
+  margin-left: 160px;
+  font-size: 1000%;
+  
+}
+.a2 p {
+  margin-left: 150px;
+  margin-top: -30px;
+  font-size: 30px;
+  color: rgba(51, 26, 21, 1);
+ 
+}
+.a2 .p1 {
+  margin-left: 500px;
+}
+.icon {
+  margin-left: -1158px;
+  margin-top: -2px;
+  color: rgba(51, 26, 21, 1);
+}
+.nav {
+  margin-top: -83px;
+  margin-left: 150px;
+  width: 870px;
+  padding: 20px;
+  float: left;
+  overflow: auto;
+}
+
+.nav :hover {
+  background-color: rgba(51, 26, 21, 1);
+  color: white;
+  border: white 2px solid;
+  border-radius: 50px;
+}
+
+.row {
+  width: 95%;
+  height: 297px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  margin-left: 25px;
+  background-color: rgb(255, 250, 211);
+}
+.col {
+  width: 427px;
+  height: 276px;
+  padding: 30px;
+  border-radius: 50px;
+  color: rgba(51, 26, 21, 1);
+  font-family: serif;
+  font-size: 18px;
+}
+h2 {
+  margin-left: 455px;
+  font-family: 'Waterfall', cursive;
+  font-size: 50px;
+  color: rgba(51, 26, 21, 1);
+}
+.row :hover {
+  background-color: rgba(51, 26, 21, 1);
+  color: white;
+}
+.bt1 button {
+  width: 20%;
+  height: 50px;
+  margin-left: 530px;
+  border-radius: 50px;
+  background-color: white;
+  transition-duration: 0.4s;
+  color: rgba(51, 26, 21, 1);
+  border: rgba(51, 26, 21, 1) 3px solid;
+}
+.bt1 button:hover {
+  background-color: rgba(51, 26, 21, 1);
+  color: white;
+}
+.vid {
+  width: 95%;
+  height: 300px;
+  margin-left: 25px;
+  background-image: url(./images/back.jpg);
+  background-size: 1100px 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+video {
+  margin-left: 123px;
+  width: 1010px;
+  height: 300px;
+  margin-top: 0px;
+}
+.bt2 button {
+  width: 533px;
+  height: 50px;
+  margin-left: 386px;
+  border-radius: 50px;
+  transition-duration: 00.4s;
+  background-color: white;
+  color: rgba(51, 26, 21, 1);
+  border: rgba(51, 26, 21, 1) 3px solid;
+}
+.bt2 button:hover {
+  background-color: rgba(51, 26, 21, 1);
+  color: white;
+}
+.gal {
+  width: 95%;
+  height: 230px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 31px;
+}
+.pic {
+  width: 250px;
+  height: 148px;
+  padding: 30px;
+  border-radius: 50px;
+  color: rgba(51, 26, 21, 1);
+  margin-left: -7px;
+}
+h5 {
+  font-size: 30px;
+  margin-left: 585px;
+  font-family: 'Waterfall', cursive;
+  color:  rgba(51, 26, 21, 1);
+}
+h4{
+  font-size: 75px;
+  font-family: 'Waterfall', cursive;
+  margin-left: 287px;
+  margin-top: -20px;
+  color: rgba(51, 26, 21, 1);
+}
+.a1 .bt3 {
+  margin-left: 730px;
+  margin-top: -73px;
+}
+.bt3 button {
+  height: 40px;
+  width: 115px;
+  border-radius: 50px;
+  background-color: white;
+  color: rgba(51, 26, 21, 1);
+  border-color: rgba(51, 26, 21, 1);
+  transition-duration: 0.4s;
+}
+.bt3 button:hover {
+  background-color: rgba(51, 26, 21, 1);
+  color: white;
+}
+.gal img {
+  width: 162%;
+  height: 222px;
+  margin-top: -31px;
+  margin-left: -62px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+input[type="text"],
+select,
+textarea {
+  width: 95%;
+  padding: 12px;
+  border: 1px solid rgb(70, 68, 68);
+  border-radius: 4px;
+  resize: vertical;
+}
+input[type="email"],
+select,
+textarea {
+  width: 95%;
+  padding: 12px;
+  border: 1px solid rgb(70, 68, 68);
+  border-radius: 4px;
+  resize: vertical;
+}
+
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+  color:  rgba(51, 26, 21, 1);
+}
+
+input[type="submit"] {
+  background-color: rgb(37, 116, 161);
+  color: white;
+  padding: 18px 70px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+  margin-right: 46px;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  width: 95%;
+  margin-left: 25px;
+  border-radius: 5px;
+  background-color: rgb(255, 250, 211);
+  padding: 20px;
+  margin-top: 100px;
+}
+
+.col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 10px;
+}
+
+.col-75 {
+  float: left;
+  width: 75%;
+  margin-top: 6px;
+}
+
+.row1:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.footer-basic {
+  padding: 40px 0;
+  background-color: rgba(51, 26, 21, 1);
+  color: white;
+  width: 95%;
+  margin-left: 25px;
+}
+
+.footer-basic ul {
+  padding: 0;
+  list-style: none;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 0;
+  list-style-type: none;
+  
+}
+
+.footer-basic li {
+  padding: 0 10px;
+  
+}
+
+.footer-basic ul a {
+  color: inherit;
+  text-decoration: none;
+  
+}
+
+.footer-basic ul a:hover {
+  opacity: 0.7;
+}
+
+.footer-basic .social {
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+.footer-basic .social > a {
+  font-size: 24px;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  margin: 0 8px;
+  color: inherit;
+  opacity: 0.75;
+
+}
+
+.footer-basic .social > a:hover {
+  opacity: 0.9;
+}
+
+.footer-basic .copyright {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 13px;
+  color: white;
+  margin-bottom: 0;
+}
